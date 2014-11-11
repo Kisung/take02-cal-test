@@ -52,3 +52,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Service
+*.dat
+client_secrets.json
